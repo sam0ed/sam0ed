@@ -1,3 +1,7 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+</picture>
+
 <h1 align="center">Hi 👋, I'm Viktor</h1>
 <h3 align="center">A passionate ML engineer from Ukraine 🇺🇦</h3>
 
