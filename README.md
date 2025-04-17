@@ -1,4 +1,4 @@
-![github contribution grid snake animation](dist/github-contribution-grid-snake-dark.svg)
+![github contribution grid snake animation](dist/github-snake-dark.svg)
 
 <h1 align="center">Hi 👋, I'm Viktor</h1>
 <h3 align="center">A passionate ML engineer from Ukraine 🇺🇦</h3>
